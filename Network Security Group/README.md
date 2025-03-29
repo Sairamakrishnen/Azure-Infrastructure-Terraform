@@ -1,1 +1,1 @@
-This example folder contains terraform scripts for deployment of Resource Group, Virtual Network, a Subnet within Virtual network in Azure. 
+This example folder contains Azure terraform scripts for deployment of a **Network Security Group** with three inbound rules and **associating NSG with the Vnet Subnet**.
