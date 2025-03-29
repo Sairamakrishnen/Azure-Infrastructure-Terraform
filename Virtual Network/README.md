@@ -1,5 +1,1 @@
-## This example folder shows the deploymeent of below resources using terraform:
-
-* Resource Group
-* Virtual Network
-* A Subnet within Virtual network
+This example folder contains source code for deployment of **Resource Group, Virtual Network, a Subnet within Virtual network** using terraform.
