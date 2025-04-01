@@ -1,4 +1,4 @@
-This example folder contains sample screenshots of terraform script execution in the VS Code terminal:
+**This example folder contains sample screenshots of terraform script execution in the VS Code terminal:**
 
 **Terraform Init: Initializes Terraform in your repository to install any necessary dependencies.**
 
