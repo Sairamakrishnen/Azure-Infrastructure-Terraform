@@ -3,12 +3,14 @@
 This GitHub repository contains provisioning of a sample Azure Infrastructure using terraform scripts.
 
 ### Getting started:
+
 * Sign-in/ login to the Azure account.
 * Select your default subcription.
 * Install Visual Studio Code application in the local PC.
 * Install Terraform for windows (latest version).
 
 ### Getting started with terraform:
+
 * Navigate to Azure rm provider module in the Terraform registry.
 * To deploy Azure resources using VS Code, Install the Azure rm provider in VS Code by running the code given in azure rm terraform registry.
 * In Azure portal, register terraform application by Application registration option through Azure Active Directory.
