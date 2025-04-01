@@ -24,7 +24,7 @@ From Terraform application, add:
 * Directory/ Tenant ID.
 * Client Credentials (create new client secret).
 
-Give permission to Terraform application object, by assigning Contributer RBAC role from subscription.
+**Give permission to Terraform application object, by assigning Contributer RBAC role from subscription.**
 * Assign role:
 
 ![role assign](https://github.com/user-attachments/assets/ac941743-edd7-48e6-9767-1cefbe8d6a3b)
