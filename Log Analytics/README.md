@@ -1,17 +1,19 @@
 **This example folder contains Azure terraform scripts to set up a Log Analytics Workspace.**
 
-After Log Analytics Workspace deployed,
+* After Log Analytics Workspace deployed,
 **Creating Diagnostic setting to collect data to workspace:**
 
 ![log1](https://github.com/user-attachments/assets/45e0f846-9887-43e0-a804-fe5036757757)
 
-
+**Setting up Alerts for VMSS:**
+* **From VMSS, create action group in alert tab, to select the users/ group and type of notification to be initiated.**
 
 **Creation of action group:**
 
 ![action group](https://github.com/user-attachments/assets/62faf425-8bd9-452f-9dd0-1a0f73b234c3)
 
 
+* **After creating action setting up rule for what the user/ group to be notified:**
 
 **Set up resource Alerts rules:**
 
