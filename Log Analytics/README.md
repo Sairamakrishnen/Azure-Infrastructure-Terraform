@@ -13,7 +13,7 @@
 ![action group](https://github.com/user-attachments/assets/62faf425-8bd9-452f-9dd0-1a0f73b234c3)
 
 
-* **After creating action setting up rule for what the user/ group to be notified:**
+* **After creating action group, setting up rule for what the user/ group to be notified:**
 
 **Set up resource Alerts rules:**
 
