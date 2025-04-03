@@ -3,6 +3,7 @@ This example folder contains Azure terraform scripts for deployment of the follo
 *  Load Balancer resource.
 *  Load Balancer backend pool.
 *  Load balancer NAT pool(to define NAT rules).
+*  Health probe
 *  Network Interface Card(NIC).
 *  Associating the NIC to Load balancer backend pool.
   
