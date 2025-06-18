@@ -1,6 +1,6 @@
  # Azure-Infrastructure-Terraform
 
-This GitHub repository contains provisioning of a sample Azure Infrastructure using terraform scripts.
+This GitHub repository contains provisioning of a sample Azure Infrastructure environment using terraform scripts.
 
 ### Getting started:
 
